@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "tkiRkYf2xADVt2Yp48FeJOKeE0Iopqs+yHxUqTGGi7usHBAU3BBI93G5HTCOEt8Du/SXXAFg8IkJ5LHGHw1ygw==",
+  "success": true,
+  "projectFilePath": "F:\\Programming\\С#\\CodeBlog Полный курс C#\\Lessons\\SimpleNeuralNetwork\\NeuralNetwork\\NeuralNetwork.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ПользовательПК\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\ПользовательПК\\.nuget\\packages\\system.drawing.common\\8.0.16\\system.drawing.common.8.0.16.nupkg.sha512",
+    "C:\\Users\\ПользовательПК\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.31\\microsoft.windowsdesktop.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\ПользовательПК\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.31\\microsoft.netcore.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\ПользовательПК\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.31\\microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}

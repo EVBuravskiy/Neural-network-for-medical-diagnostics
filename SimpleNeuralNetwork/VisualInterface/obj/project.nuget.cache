@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "JdFysCMkRCJzrxP3VielAkUOMG3NoN9YqXmDS8hBAB/OagA0ca4kysf0guGKrK0fwk+nZWfYBxAXLHnZqMGJtQ==",
+  "success": true,
+  "projectFilePath": "F:\\Programming\\С#\\CodeBlog Полный курс C#\\Lessons\\SimpleNeuralNetwork\\VisualInterface\\VisualInterface.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ПользовательПК\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\ПользовательПК\\.nuget\\packages\\system.drawing.common\\8.0.16\\system.drawing.common.8.0.16.nupkg.sha512",
+    "C:\\Users\\ПользовательПК\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.31\\microsoft.windowsdesktop.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\ПользовательПК\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.31\\microsoft.netcore.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\ПользовательПК\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.31\\microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\ПользовательПК\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.31\\microsoft.netcore.app.host.win-x64.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
